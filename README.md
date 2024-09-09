@@ -1,12 +1,12 @@
 # Hi there I'm Sagar 👋
 
-I am a passionate MS in CS graduate from Pace University, NYC. I'm driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a programmer, I'm driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![nolimit-sagar's Stats](https://github-readme-stats.vercel.app/api?username=nolimits-sagar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I've recently graduated in MS, Computer Science from Pace University, NYC.
+
 - 📝 I write in-depth, long-form articles on my website [sagarwrites.hashnode.dev](https://sagarwrites.hashnode.dev), accumulating over 20k views within just 2 months.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
